@@ -2,7 +2,7 @@
 ## Overview
 This data science project aims to develop a machine learning model that can accurately detect and classify fraudulent financial payment transactions. The project utilizes historical payment transaction data, which includes labeled examples of both fraudulent and legitimate transactions. By building and evaluating the model, we aim to create a reliable system that can identify potential fraud cases in real-time.
 
-#Project Steps
+# Project Steps
 ## 1. Data Collection
 The first step involved gathering a comprehensive dataset that contains historical payment transaction data. The dataset includes various features such as transaction amount, time, location, and other relevant transaction details. It is essential to ensure the dataset is representative and contains a sufficient number of positive (fraudulent) and negative (legitimate) samples to avoid bias.
 
@@ -39,12 +39,12 @@ Copy code
 ## Dependencies
 To run the code in this project, you will need the following dependencies:
 
-Python 3.x
-Jupyter Notebook
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
+Python 3.x ,
+Jupyter Notebook ,
+NumPy ,
+Pandas ,
+Scikit-learn ,
+Matplotlib ,
 Seaborn
 
 # Conclusion
