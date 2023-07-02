@@ -4,7 +4,7 @@ This data science project aims to develop a machine learning model that can accu
 
 # Project Steps
 ## 1. Data Collection
-The first step involved gathering a comprehensive dataset that contains historical payment transaction data. The dataset includes various features such as transaction amount, time, location, and other relevant transaction details. It is essential to ensure the dataset is representative and contains a sufficient number of positive (fraudulent) and negative (legitimate) samples to avoid bias.
+The first step involved gathering a comprehensive dataset that contains historical payment transaction data. The dataset includes various features such as transaction amount, time, location, and other relevant transaction details. It is essential to ensure the dataset is representative and contains a sufficient number of positive (fraudulent) and negative (legitimate) samples to avoid bias. The link to dataset https://www.kaggle.com/code/arjunjoshua/predicting-fraud-in-financial-payment-services/input
 
 ## 2. Data Preprocessing
 Data preprocessing is crucial to clean and prepare the dataset for analysis. This step involves handling missing values, removing duplicates, and dealing with any outliers that may affect model performance. Additionally, we address any class imbalance issues in the dataset, ensuring both classes have an equal representation.
